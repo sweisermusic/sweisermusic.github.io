@@ -1,1 +1,0 @@
-/g/15/2013f/files/bog/l/bogtrain.js
